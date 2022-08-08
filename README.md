@@ -7,8 +7,12 @@ Curso: Especialização em Ciência de Dados e Big Data<br>
 Tecnologias: Python 3.8.10 e pacotes (numpy, pandas, geopandas, scikit-learn, tensorflow, entre outros)<br>
 Info: Os arquivos neste repositório contém os scripts desenvolvidos para o Trabalho de Conclusão de Curso de Especialização em Ciência de dados e Big Data da PUC Minas<br>
 
-##### A soja é o principal produtos agrícola brasieiro, mas as mudanças climáticas podem modificar o rendimento de sua produção no país. Este estudo teve como objetivo construir modelos de aprendizado de máquina para prever a produtividade da soja nos municípios brasileiros em cenários de mudanças climáticas. Bancos de dados de projeções climáticas no Brasil e da produtividade agrícola municipal foram utilizados para construir modelos de regressão e de classificação. Os algoritmos de máquinas de vetores de suporte, árvore de decisão, floresta aleatória, rede neural e aumento extremo de gradiente foram utilizados. O cenário histórico foi produzido com base nos dados de 1990 a 2005, e as previsões foram feitas para 2045, 2070 e 2099. Os resultados mostram o aumento do potencial produtivo de soja nos municípios brasileiros nos anos de 2045 e 2070, seguido de um retorno aos níveis iniciais ou menores no ano de 2099.
+A soja é o principal produtos agrícola brasieiro, mas as mudanças climáticas podem modificar o rendimento de sua produção no país. Este estudo teve como objetivo construir modelos de aprendizado de máquina para prever a produtividade da soja nos municípios brasileiros em cenários de mudanças climáticas. Bancos de dados de projeções climáticas no Brasil e da produtividade agrícola municipal foram utilizados para construir modelos de regressão e de classificação. Os algoritmos de máquinas de vetores de suporte, árvore de decisão, floresta aleatória, rede neural e aumento extremo de gradiente foram utilizados. O cenário histórico foi produzido com base nos dados de 1990 a 2005, e as previsões foram feitas para 2045, 2070 e 2099. Os resultados mostram o aumento do potencial produtivo de soja nos municípios brasileiros nos anos de 2045 e 2070, seguido de um retorno aos níveis iniciais ou menores no ano de 2099.
 
+#### Vídeo curto de apresentação deste estudo de Ciência de Dados
+<a>https://youtu.be/SpTaoa4TO6g</a>
+<br>
+<br>
 
 #### Quais dados são essenciais pra rodar os scripts?
 
